@@ -16,10 +16,5 @@ namespace mvcTest.Controllers
             return View();
         }
 
-        public ActionResult test()
-        {
-            return View();
-        }
-
     }
 }
